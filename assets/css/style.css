@@ -303,7 +303,13 @@ a:hover,
 /* line 83, C:/Users/HP/Desktop/July-HTML/292 Health coach/assets/scss/_common.scss */
 a,
 button {
-  color: #fff;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 50px;
+  width: 90px;
+  border-radius: 1%;
+  color: #000000;
   outline: medium none;
 }
 
