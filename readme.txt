@@ -1,8 +1,58 @@
-Thank you for using our template!
 
-For more awesome templates please visit https://colorlib.com/wp/templates/
+TITLE: 
+Fitness - 100% Fully Responsive Free HTML5 Bootstrap Template
 
-Copyright information for the template can't be altered/removed unless you purchase a license.
-More information about the license is available here: https://colorlib.com/wp/licence/
+AUTHOR:
+DESIGNED & DEVELOPED by FeeeHTML5.co
 
-Removing copyright information without the license will result in suspension of your hosting and/or domain name(s).
+Website: http://freehtml5.co/
+Twitter: http://twitter.com/fh5co
+Facebook: http://facebook.com/fh5co
+
+
+CREDITS:
+
+Bootstrap
+http://getbootstrap.com/
+
+jQuery
+http://jquery.com/
+
+jQuery Easing
+http://gsgd.co.uk/sandbox/jquery/easing/
+
+Modernizr
+http://modernizr.com/
+
+Google Fonts
+https://www.google.com/fonts/
+
+Icomoon
+https://icomoon.io/app/
+
+SVG Icons
+http://flaticon.com
+
+Images
+http://unsplash.com/
+
+Respond JS
+https://github.com/scottjehl/Respond/blob/master/LICENSE-MIT
+
+animate.css
+http://daneden.me/animate
+
+jQuery Waypoint
+https://github.com/imakewebthings/waypoints/blog/master/licenses.txt
+
+Superfish Menu
+http://users.tpg.com.au/j_birch/plugins/superfish/examples/
+
+hoverIntent
+https://github.com/briancherne/jquery-hoverIntent
+
+Stellar Parallax
+http://markdalgleish.com/projects/stellar.js/
+
+Google Map
+http://maps.google.com
